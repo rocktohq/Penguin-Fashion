@@ -1,0 +1,14 @@
+/* Custom Font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700;900&display=swap');
+
+
+/* Custom Font-Family */
+.font-bebas {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Custom Color */
